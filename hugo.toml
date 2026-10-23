@@ -1,0 +1,14 @@
+baseURL = 'https://eureakanon.github.io/'
+languageCode = 'zh-cn'
+title = '我的数学与技术笔记'
+theme= 'PaperMod'
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)']]
+
+[params]
+  math = true

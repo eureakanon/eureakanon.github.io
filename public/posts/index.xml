@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 我的数学与技术笔记</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的数学与技术笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/math-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/math-test/</guid>
+      <description>下一步写作计划 这里记录接下来可能写的一些文章，分为 数学 和 技术 两大类。每篇都先写一个简短说明，方便以后挑着写。
+一、数学类 1. 抽象代数：群同态基本定理 围绕群同态基本定理展开：
+同态核、像与商群的关系 第一同构定理的证明与直观理解 几个典型例子（如 \(\mathbb{Z} \to \mathbb{Z}/n\mathbb{Z}\)、行列式映射、指数映射） 顺带提一下第二、第三同构定理 目标：把&amp;quot;核—像—商群&amp;quot;这条主线讲清楚，而不是只给证明。
+2. 解析数论：Jensen 公式 Jensen 公式的陈述：圆内零点与边界对数平均的关系 证明思路（用对数函数的调和性 / Poisson 核） 在解析数论中的用途，例如与整函数阶、零点分布相关的估计 和 Jensen 不等式的区别，避免混淆 目标：讲清楚公式&amp;quot;为什么长这样&amp;quot;，以及它在数论里怎么被用起来。
+3. 对称多项式基本定理 对称多项式的定义与初等对称多项式 基本定理：任意对称多项式可唯一表示为初等对称多项式的多项式 证明思路（字典序 / 归纳法） 应用：韦达定理、判别式、牛顿恒等式 目标：把&amp;quot;唯一表示&amp;quot;这件事讲透，并给出几个能上手的例子。
+4. 积分学杂题 不定期的杂题整理，可能包括：
+换元、分部积分的技巧性题目 含参积分与积分号下求导 对称性、周期性与定积分化简 一些&amp;quot;看着难其实一步&amp;quot;的题 目标：以题带法，每题给出思路来源，而不只是答案。
+二、技术类 1. 计算机网络：报文解读 抓包实战：用 Wireshark 逐字段解读一个 TCP 报文 IP 头、TCP 头、UDP 头字段含义 三次握手 / 四次挥手中的报文变化 常见协议的报文结构（HTTP、DNS、ARP 等） 目标：把&amp;quot;协议字段&amp;quot;和&amp;quot;实际抓到的字节&amp;quot;对应起来。
+2. 操作系统（OS） 计划写一些偏原理与观察结合的内容：</description>
+    </item>
+    
+  </channel>
+</rss>
